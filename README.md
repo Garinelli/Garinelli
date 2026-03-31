@@ -17,4 +17,5 @@ My stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width=40 heigh=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" width=40 heigh=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width=40 heigh=40>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" width=40 heigh=40>
 </div>
