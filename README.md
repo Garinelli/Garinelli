@@ -18,6 +18,7 @@ I'm Data Engineer
 
 ### ML / Data
 <p>
+  <img src="https://repository-images.githubusercontent.com/191126383/7481bc00-4705-11eb-9fed-772d9ed73e28" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width=40 height=40>
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width=40 height=40>
